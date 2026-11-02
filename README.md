@@ -1,4 +1,5 @@
 # Campus Connect College Club
 
 
-<img width="1353" height="634" alt="Screenshot 2026-11-02 194635" src="https://github.com/user-attachments/assets/b2beb1f6-1d49-4dba-9277-11c1f07e3f29" />
+<img width="885" height="645" alt="image" src="https://github.com/user-attachments/assets/6a905a64-5e07-4258-bd68-98f225ff698d" />
+
